@@ -1,6 +1,6 @@
 # Currículum de [Esmeralda Ortega Pérez]
 
-![Foto Profesional](https://via.placeholder.com/120) 
+![Foto Profesional](IMG-20241104-WA0001.jpg) 
 
 
 
