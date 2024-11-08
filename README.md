@@ -36,19 +36,21 @@ Desarrolle aplicación el lenguaje Java para el registro del inventario de la em
 
 ---
 
-## Proyectos
+## Herramientas
 
-### Proyecto 1
-![Proyecto 1](https://via.placeholder.com/300x150) <!-- Cambia el enlace a la imagen de tu proyecto -->
-Descripción breve del proyecto. [Ver en GitHub](https://github.com/tuusuario/proyecto1)
+### Adobe Photoshop
 
-### Proyecto 2
-![Proyecto 2](https://via.placeholder.com/300x150) <!-- Cambia el enlace a la imagen de tu proyecto -->
-Descripción breve del proyecto. [Ver en GitHub](https://github.com/tuusuario/proyecto2)
+### Unity
 
-### Proyecto 3
-![Proyecto 3](https://via.placeholder.com/300x150) <!-- Cambia el enlace a la imagen de tu proyecto -->
-Descripción breve del proyecto. [Ver en GitHub](https://github.com/tuusuario/proyecto3)
+### Power BI
+
+### After Effects
+
+### Visual StudioCode
+
+### R Studio
+
+### Canva
 
 ---
 
