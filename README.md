@@ -54,8 +54,7 @@ Desarrolle aplicación el lenguaje Java para el registro del inventario de la em
 
 --- 
 ## Idiomas
-
-## Ingles A1 
+Ingles A1 
 
 
 ---
