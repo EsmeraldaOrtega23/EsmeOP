@@ -52,8 +52,13 @@ Desarrolle aplicación el lenguaje Java para el registro del inventario de la em
 
 ### Canva
 
----
+--- 
+## Idiomas
 
+## Ingles A1 
+
+
+---
 **Contacto**  
 - Correo electrónico: esmeop230703@gmail.com
 - Instagram: esmeop03
