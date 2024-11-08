@@ -2,8 +2,8 @@
 <h2 align="center"> Mi perfil profesional :</h2>
 <h3 align="center"> Diseñadora y programadora en Entornos virtuales y negocios digitales :</h2>
 
-p align="center"> <img src="IMG-20241104-WA0001.jpg" >
+<p align="center"> <img src="IMG-20241104-WA0001.jpg" >
 
-
+<p align="left">
          
      
