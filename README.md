@@ -1,11 +1,11 @@
-# Currículum de [Esmeralda Ortega Pérez]
+# Currículum de Esmeralda Ortega Pérez
 
 ![Foto Profesional](IMG-20241104-WA0001.jpg) 
 
 
 
-## Sobre Mí
-Soy un desarrollador web apasionado por crear aplicaciones modernas y funcionales, con experiencia en HTML, CSS, y JavaScript. En constante aprendizaje y evolución.
+
+Soy una diseñadora y programadora de Ingeniería en Entornos Virtuales y Negocios Digitales, apasionada por la tecnología y el diseño de soluciones innovadoras en el ámbito digital. Tengo una sólida base en programación, gestión de proyectos y estrategias de negocio enfocadas en el desarrollo de entornos virtuales y plataformas digitales al igual que tengo conocimiento de Marketing digital. Mi formación me permite entender y conectar las necesidades empresariales con soluciones tecnológicas efectivas, utilizando metodologías ágiles y herramientas digitales de última generación.
 
 ---
 
