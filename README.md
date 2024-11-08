@@ -31,8 +31,8 @@ Desarrolle aplicación el lenguaje Java para el registro del inventario de la em
 
 ## Educación
 
-- **Licenciatura en Ciencias de la Computación**  
-  Universidad Ejemplo, _2018 - 2021_
+- Tecnico Superior Universitario Ingeniería en Tecnologías de la Información Área Entornos Virtuales y Negocios Digitales
+- Septiembre 2021- Agosto 2023 
 
 ---
 
@@ -53,8 +53,10 @@ Descripción breve del proyecto. [Ver en GitHub](https://github.com/tuusuario/pr
 ---
 
 **Contacto**  
-- [LinkedIn](https://linkedin.com/in/tuperfil)  
-- Correo electrónico: tuemail@ejemplo.com
+- Correo electrónico: esmeop230703@gmail.com
+- Instagram: esmeop03
+- Facebook: Esmeralda Ortega
+- Telefono: 241 100 49 99 
 
             
        
