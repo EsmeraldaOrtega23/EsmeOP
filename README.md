@@ -11,19 +11,19 @@ Soy una diseñadora y programadora de Ingeniería en Entornos Virtuales y Negoci
 
 ## Experiencia Profesional
 
-Community Manager (Practicante)
+-Community Manager (Practicante)
 Radio FM CENTRO 100.3 
 Mayo 2023 - Agosto ​​2023
 Gestioné las redes sociales de la estación, incluyendo la creación y publicación de contenidos en plataformas como Instagram, Facebook y Tiktok, con el objetivo de aumentar la visibilidad y el alcance.
 ---
 
-Aplicación en realidad aumentada 
+-Aplicación en realidad aumentada 
 Conociendo México 
 Septiembre 2022 - Diciembre 2022
 Realice contenido multimedia y modelados 3D.
 ---
 
-Aplicación de escritorio lenguaje Java 
+-Aplicación de escritorio lenguaje Java 
 Registro de inventario Gomiland 
 Enero 2022 - Abril 2022 
 Desarrolle aplicación el lenguaje Java para el registro del inventario de la empresa Gomiland.
