@@ -14,7 +14,6 @@ Soy una diseñadora y programadora de Ingeniería en Entornos Virtuales y Negoci
 Community Manager (Practicante)
 Radio FM CENTRO 100.3 
 Mayo 2023 - Agosto ​​2023
-
 Gestioné las redes sociales de la estación, incluyendo la creación y publicación de contenidos en plataformas como Instagram, Facebook y Tiktok, con el objetivo de aumentar la visibilidad y el alcance.
 ---
 
